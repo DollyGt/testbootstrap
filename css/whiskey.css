@@ -1,0 +1,15 @@
+.navbar-default {
+    background-color: orange;
+}
+.btn-success {
+    background-color: red;
+}
+.jumbotron {
+    background-color:pink;
+}
+.lastword {
+    color:yellow;
+}
+body {
+font-family: 'Dancing Script', cursive;
+} 
